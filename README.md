@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.anshitaarya17.repl.co/](https://portfolio.anshitaarya17.repl.co/)
+- 👨‍💻 All of my projects are available at [https://github.com/anshitaarya17/](https://github.com/anshitaarya17)
 
 - 💬 Ask me about **HTML, CSS and Python.**
 
