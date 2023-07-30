@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshitaarya17&label=Profile%20views&color=0e75b6&style=flat" alt="anshitaarya17" /> </p>
 
-- 🔭 I’m currently working on [Student Dasboard](student-dashboard.anshitaarya17.repl.co/)
+- 🔭 I’m currently working on [Student Dasboard](https://github.com/anshitaarya17/STUDENT-DASHBOARD)
 
 - 🌱 I’m currently learning **Javascript, React.js and Node.js**
 
