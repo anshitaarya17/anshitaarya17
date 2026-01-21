@@ -1,3 +1,5 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋 I'm Anshita</h1>
 <h3 align="center">Passionate coder exploring the realms of software development. Embracing challenges with a curious mind and a love for clean, efficient code.</h3>
 
