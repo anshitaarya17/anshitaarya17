@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Student Dasboard](https://github.com/anshitaarya17/STUDENT-DASHBOARD)
 
-- 🌱 I’m currently learning **Javascript, React.js and Node.js**
+- 🌱 I’m currently learning about **Agents and Generative AI**
 
 - 👨‍💻 All of my projects are available at [github.com/anshitaarya17](github.com/anshitaarya17)
 
-- 💬 Ask me about **HTML, CSS and Python.**
+- 💬 Ask me about **AI.**
 
 - 📫 How to reach me **anshitaarya1243@gmail.com**
 
